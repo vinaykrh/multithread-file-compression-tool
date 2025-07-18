@@ -22,4 +22,4 @@ To compare the performance, the program also runs a single-threaded compression 
 This program effectively demonstrates how multithreading can significantly enhance the performance of CPU-intensive tasks like file compression. It’s a practical implementation of concurrent programming principles and can be extended further with additional features like decompression, dynamic thread allocation, or support for different compression algorithms.
 
 Output:
-
+<img width="1920" height="909" alt="Image" src="https://github.com/user-attachments/assets/d6317f22-a58d-4309-bbbc-c97e47b9acbb" />
