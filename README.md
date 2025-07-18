@@ -1,1 +1,9 @@
 # multithread-file-compression-tool
+
+COMPANY: CODTECH IT SOLUTIONS PVT.LTD
+*NAME: Vinay Kumar Hembram
+INTERN ID:CT04DG1922 
+DOMAIN: C++ LANGUAGE
+DURATION: 4 WEEKS
+MENTOR: NEELA SANTOSH KUMAR
+paragraph: 
